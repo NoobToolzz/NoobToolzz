@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [Website Soon! (Will be using template sorry)](Website Soon! (Will be using template sorry))
+- 👨‍💻 All of my projects are available at Website soon (will be using template)
 
 - 💬 Ask me about **Python, Lua**
 
