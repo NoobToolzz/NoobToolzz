@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm NoNoobz</h1>
 <h3 align="center">A 13 y/o Python coder with no friends</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobtoolzz&label=Profile%20views&color=0e75b6&style=flat" alt="noobtoolzz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobtoolzz" alt="noobtoolzz" /></a> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=smug246&label=Profile%20views&color=5c12df&style=flat" alt="smug246" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Smug246" alt="Profile Forks"></a>
+</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobtoolzz" alt="noobtoolzz" /></a> </p>
 
 - 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at Website soon (will be using template)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/NoobToolzz?tab=repositories)
 
 - 💬 Ask me about **Python, Lua**
 
