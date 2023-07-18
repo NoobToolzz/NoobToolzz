@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **HTML**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/NoobToolzz?tab=repositories)
 
