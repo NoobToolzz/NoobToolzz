@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Lua**
 
-- 📫 How to reach me **https://discord.com/invite/sJTjPzaPT5**
+- 📫 How to reach me **Discord Terminated.**
 
 - ⚡ Fun fact **I love playing VALORANT**
 
