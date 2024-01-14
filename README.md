@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoNoobz</h1>
-<h3 align="center">I'm a 13 y/o Python coder with no friends</h3>
+<h3 align="center">I'm a 13 y/o Python coder that has no friends and hates life</h3>
 
 <p align="center"> 
 <a href="https://discord.com/users/1112286581877899326">
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Forks"></a>
 
-- 🔭 I’m currently working on **RZCracker - A .rar and .zip password cracker (using wordlists)**
+- 🔭 I’m currently working on **getting a life**
 
 - 🌱 I’m currently learning **HTML**
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Python, Lua**
 
-- 📫 How to reach me **Discord Terminated.**
+- 📫 You can reach me through Discord @not_noob
 
-- ⚡ Fun fact **I love playing VALORANT**
+- ⚡ Fun fact **I hate unformatted code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
