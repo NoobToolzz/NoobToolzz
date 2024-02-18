@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoNoobz</h1>
-<h3 align="center">I'm a 13 y/o Python coder that has no friends and hates life</h3>
+<h3 align="center">I'm a Python coder that has no friends and hates life</h3>
 
 <p align="center"> 
 <a href="https://discord.com/users/1112286581877899326">
