@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoNoobz</h1>
-<h3 align="center">I'm a Python coder that has no friends and hates life</h3>
+<h3 align="center">I'm a Python coder that has no friends and hates life. Currently learning web development.</h3>
 
 <p align="center"> 
 <a href="https://discord.com/users/1112286581877899326">
@@ -8,13 +8,13 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Forks"></a>
 
-- 🔭 I’m currently working on **getting a life**
+- 🔭 I’m currently working on [Recipes of the World](https://github.com/NoobToolzz/Recipes-of-the-World)
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **HTML & CSS**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/NoobToolzz?tab=repositories)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/NoobToolzz?tab=repositories)
 
-- 💬 Ask me about **Python, Lua**
+- 💬 Ask me about **Python, HTML, CSS**
 
 - 📫 You can reach me through Discord @not_noob
 
