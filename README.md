@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm NoNoobz</h1>
-<h3 align="center">I'm a Python coder that has no friends and hates life. Currently learning web development.</h3>
+<h1 align="center">Hi 👋, I'm Not_Noob</h1>
+<h3 align="center">I'm a Python developer that has no friends and hates life.</h3>
 
 <p align="center"> 
 <a href="https://discord.com/users/1112286581877899326">
@@ -8,9 +8,9 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/noobtoolzz" alt="Profile Forks"></a>
 
-- 🔭 I’m currently working on [Recipes of the World](https://github.com/NoobToolzz/Recipes-of-the-World)
+- 🔭 I’m currently working on [SigmaHub](https://github.com/NoobToolzz/SigmaHub)
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/NoobToolzz?tab=repositories)
 
@@ -18,7 +18,7 @@
 
 - 📫 You can reach me through Discord @not_noob
 
-- ⚡ Fun fact **I hate unformatted code**
+- ⚡ Fun fact **I dislike unformatted code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
